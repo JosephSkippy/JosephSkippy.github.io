@@ -22,7 +22,6 @@
   </head>
   <body>
     <h1>Coming Soon</h1>
-    <p>Our website is under construction. Please check back soon.</p>
   </body>
 </html>
 
