@@ -4,7 +4,7 @@
     <title>Coming Soon</title>
     <style>
       body {
-        background-image: url('path/to/image.jpg');
+        background-image: url('https://github.com/JosephSkippy/JosephSkippy.github.io/blob/main/imeg/background.jpg?raw=true');
         background-size: cover;
         text-align: center;
       }
